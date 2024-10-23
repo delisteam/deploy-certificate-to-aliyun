@@ -7,7 +7,7 @@
 # deploy-certificate-to-aliyun
 
 自动部署泛解析证书到阿里云 CDN 上
-2024-10-23 1
+2024-10-23 14:37
 
 ## 如何使用
 
